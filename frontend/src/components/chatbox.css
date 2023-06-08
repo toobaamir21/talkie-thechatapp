@@ -1,0 +1,9 @@
+.chatbox {
+    background-image: url("./message.avif");
+    min-height: 60vh;
+
+    display: flex;
+    background-size: cover;
+    background-position: center;
+    
+}

@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "react-lottie": "^1.2.3",
+    "react-notification-badge": "^1.5.1",
+    "socket.io": "^4.6.2"
+  }
+}
